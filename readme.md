@@ -1,4 +1,4 @@
-#Chore Score
+# Chore Score
 
 A Back-End C# project created to learn C# and MySQL 
 
